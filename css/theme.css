@@ -142,15 +142,4 @@ body,body.ui-overlay-a{
 
 
 
-.theme_bg
-{
-	background-image:none;
-	background-repeat:no-repeat;
-	background-size:cover;	
-	background: linear-gradient(left , rgb(216, 95, 95) 1% , rgb(209, 10, 173) 50% , rgb(249, 253, 6) 90%);
-background: -o-linear-gradient(left , rgb(216, 95, 95) 1% , rgb(209, 10, 173) 50% , rgb(249, 253, 6) 90%);
-background: -ms-linear-gradient(left , rgb(216, 95, 95) 1% , rgb(209, 10, 173) 50% , rgb(249, 253, 6) 90%);
-background: -moz-linear-gradient(left , rgb(216, 95, 95) 1% , rgb(209, 10, 173) 50% , rgb(249, 253, 6) 90%);
-background: -webkit-linear-gradient(left , rgb(216, 95, 95) 1% , rgb(209, 10, 173) 50% , rgb(249, 253, 6) 90%);
-}
 
